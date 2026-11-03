@@ -1,0 +1,7 @@
+# 登入狀態（含 cookie），絕對不要上傳
+clove-profile/
+
+# 執行紀錄與截圖（含帳號餘額等個人資訊）
+logs/
+
+__pycache__/
